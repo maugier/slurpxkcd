@@ -1,0 +1,10 @@
+USAGE:
+
+    XKCD scrollable comic slurper
+
+    perl slurp.pl
+
+    (wait a while)
+
+    ls *.png |perl minimap.pl >index.html
+
